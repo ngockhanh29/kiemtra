@@ -1,2 +1,2 @@
-file week7.txt
-thuoc branch week7 va mainnn
+file week7.txt (pull)
+thuoc branch week7 ma thoi
